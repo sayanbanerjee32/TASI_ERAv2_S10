@@ -50,8 +50,15 @@ Example of augmented images
 
 
 ## Model features
-[Final notebook is available here]() 
+[Final notebook is available here](https://github.com/sayanbanerjee32/TASI_ERAv2_S10/blob/main/S10_SayanBanerjee.ipynb) 
 
+### Reusable assets
+This notebook uses a [master package](https://github.com/sayanbanerjee32/TASI_vision_master) that implements the following reusable functionalities 
+- Image augmentations
+- Model architecture
+- Train and test functions
+- other utility functions
+    
 ### Learning Rate Scheduler
 Training uses OneCycle Poliy for updating learning rate after each iteration.  
 
