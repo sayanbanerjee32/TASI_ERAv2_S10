@@ -1,4 +1,4 @@
-# TASI_ERAv2_S10
+# ResNet - One Cycle Policy
 
 ## Objective
 
